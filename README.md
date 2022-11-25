@@ -1,6 +1,6 @@
 👋 Hi, welcome to my github
 
-I’m Carlos Carmona Ramos a third year student of the bachelor´s degree on Applied Marhematics and Computing at @uc3m. 
+I’m Carlos Carmona Ramos a third year student of the bachelor´s degree on Applied Marhematics and Computing at @UC3M. 
 
 - 📝 In my github you may find projects I have worked on during my degree.
 - 📧 How to reach me: @carloscarmonaramos7@gmail.com 
