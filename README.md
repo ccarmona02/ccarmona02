@@ -4,7 +4,7 @@ I’m Carlos Carmona Ramos a third year student of the bachelor´s degree on App
 
 - 📝 In my github you may find projects I have worked on during my degree.
 - 📧 How to reach me: @carloscarmonaramos7@gmail.com 
-- 📘LinkedIn: linkedin.com/in/carlos-carmona-ramos
+- 📘LinkedIn: https://linkedin.com/in/carlos-carmona-ramos
 
 
 <!---
